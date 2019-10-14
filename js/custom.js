@@ -4,6 +4,7 @@
     document.getElementById("email").append(data.email);
     document.getElementById("mobile").append(data.mobile);
     document.getElementById("linkedin").append("https://www.linkedin.com/in/" + data.linkedin);
+    document.getElementById("github").append("https://github.com/" + data.github);
     document.getElementById("summary").innerHTML += `<p>${data.professional_summary}</p>`;
 
     for (let job in data.work)

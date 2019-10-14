@@ -1,15 +1,21 @@
 var data = {
-    "name"                  : "David James Baines",
-    "email"                 : "bainezy94@gmail.com",
+    "name"                  : "Dave Baines",
+    "email"                 : "bainezydave@gmail.com",
     "mobile"                : "0433 196 954",
-    "linkedin"              : "davidjamesbaines",
-    "github"                : "Bainezy94",
+    "linkedin"              : "davebaines",
+    "github"                : "BainezyDave",
     "codepen"               : "",
     "professional_summary"  : "Experienced Digital Content Manager with a demonstrated history of working in the marketing and advertising industry. Skilled in Front End Web Development, Project Management, Content Management & IT Operations with a strong focus in Customer Service & Teamwork. Graduated from General Assembly.",
-    "skills" : [
+    "skills": [
+        "Javascript",
+        "Node.js",
+        "React",
+        "Ruby",
+        "Rails",
+        "PostgreSQL",
+        "MongoDB",
         "HTML5", 
         "CSS3", 
-        "Javascript", 
         "Jquery",
         "Bootstrap", 
         "Bash", 
@@ -17,7 +23,6 @@ var data = {
         "InDesign", 
         "Illustrator", 
         "G Suite", 
-        "Automator", 
         "Mac OS", 
         "Mac OS Server", 
         "Windows", 
@@ -35,7 +40,7 @@ var data = {
             "location"      : "North Sydney",
             "url"           : "",
             "start_date"    : "2019",
-            "end_date"      : "2019"
+            "end_date"      : "2020"
         },
         {
             "certification" : "Front End Web Development Certification",
